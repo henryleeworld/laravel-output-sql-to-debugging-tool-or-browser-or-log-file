@@ -1,4 +1,4 @@
-# Laravel 8 輸出 SQL 語法到除錯工具／瀏覽器／日誌檔
+# Laravel 10 輸出 SQL 語法到除錯工具／瀏覽器／日誌檔
 
 引入 dietercoopman 的 laravel-showsql 套件來擴增輸出 SQL 語法到除錯工具／瀏覽器／日誌檔，可以在較偏好的工具中瀏覽您的 SQL。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/zHGMxd9.png)
+![](https://i.imgur.com/AHWwPtR.png)
 > 將查詢 SQL 語法輸出到日誌檔
